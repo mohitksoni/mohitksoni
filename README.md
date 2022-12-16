@@ -9,7 +9,7 @@
 - 👀 I’m interested in Software Developement and Data Science
 - 🔭 I’m currently working on my problem solving skills
 - 🌱 I’m currently learning DSA, Machine Learning, Full Stack Development, Deep Learning
-- 📫 How to reach me mohtkumarsoni02@gmail.com
+- 📫 How to reach me mohitkumarsoni02@gmail.com
 
 #### Language and Tools :
 <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="JavaScript Logo" width="50" height="50"/> 
